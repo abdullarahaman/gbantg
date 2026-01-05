@@ -1,7 +1,8 @@
 {
   "banned": [
-    123456,
-    789012
+    12345678,
+    87654321
   ],
-  "news": "🔥 New Update Available! Check my repo."
+  "latestVersion": "1.0.0",
+  "news": "🔥 UPDATE ALERT: New Antiban System added! Please update your bot."
 }
