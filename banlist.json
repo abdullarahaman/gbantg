@@ -1,4 +1,7 @@
-[
-  636352,
-  1122334455
-]
+{
+  "banned": [
+    123456,
+    789012
+  ],
+  "news": "🔥 New Update Available! Check my repo."
+}
