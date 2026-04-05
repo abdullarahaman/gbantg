@@ -1,8 +1,5 @@
 {
-  "banned": [
-    12345678,
-    66974138
-  ],
-  "latestVersion": "2.5.0",
-  "news": "🔥 UPDATE ALERT: New Antiban System added! Please update your bot."
+  "banned": [6697414538, 123456789],
+  "version": "2.5.0",
+  "news": "CatHaxor Auto Downloader added!"
 }
